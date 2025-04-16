@@ -5,10 +5,6 @@
   <strong>We turn your ideas into scalable digital products.</strong>
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=codex4soft.codex4soft" alt="visitor badge"/>
-</p>
-
 ---
 
 ## 🧑‍💻 Who We Are
