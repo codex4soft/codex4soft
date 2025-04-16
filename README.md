@@ -106,7 +106,7 @@ We use a diverse and modern tech stack to cover end-to-end product development.
   🐦 <a href="https://twitter.com/codex4soft">Twitter</a> • 
   👔 <a href="https://www.linkedin.com/company/codex4soft">LinkedIn</a> • 
   📘 <a href="https://facebook.com/codex4soft">Facebook</a> • 
-  📧 hello@codex4soft.com
+  📧 codex4soft@gmail.com
 </p>
 
 ---
